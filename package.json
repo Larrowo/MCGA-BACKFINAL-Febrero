@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4"
+  },
+  "name": "mcga-backfinal-febrero",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Larrowo/MCGA-BACKFINAL-Febrero.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Larrowo/MCGA-BACKFINAL-Febrero/issues"
+  },
+  "homepage": "https://github.com/Larrowo/MCGA-BACKFINAL-Febrero#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
